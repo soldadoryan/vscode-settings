@@ -1,0 +1,13 @@
+{
+  "workbench.colorTheme": "Omni",
+  "editor.fontFamily": "'Fira Code'",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "editor.lineHeight": 50,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "git.openRepositoryInParentFolders": "never",
+  "editor.minimap.autohide": true,
+  "window.zoomLevel": -1
+}
